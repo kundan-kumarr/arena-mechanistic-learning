@@ -1,6 +1,8 @@
 # ARENA Mechanistic Learning
 **100 Days of Mechanistic Learning — ARENA + Notes, Implementations, Experiments & Blogs**
+
 *Started: [DATE] · Target completion: [DATE + 100 days]*
+
 Based on: [ARENA – Alignment Research Engineer Accelerator](https://learn.arena.education/)
 
 [![Days Complete](https://img.shields.io/badge/Days%20Complete-0%2F100-red?style=flat-square)](./daily_notes/)
