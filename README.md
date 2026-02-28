@@ -69,8 +69,8 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 | Day | Topic | ARENA | Notes | Implementation | Blog |
 |---|---|---|---|---|---|
-| 1 | PyTorch Tensors & Basics | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./00_prerequisites/day_001_tensors.py) | [blog](./blog_posts/day_001.md) |
-| 2 | einops & einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_002.md) | [code](./00_prerequisites/day_002_einops.py) | [blog](./blog_posts/day_002.md) |
+| 1 | PyTorch, einops, einsum  | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./00_prerequisites/day_001_tensors.py) | [blog](./blog_posts/day_001.md) |
+| 2 | Ray Tracing + Batched Ops | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_002.md) | [code](./00_prerequisites/day_002_einops.py) | [blog](./blog_posts/day_002.md) |
 | 3 | Tensor Manipulation Patterns | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_003.md) | [code](./00_prerequisites/day_003_patterns.py) | [blog](./blog_posts/day_003.md) |
 | 4 | Linear Algebra in Code | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_004.md) | [code](./00_prerequisites/day_004_linalg.py) | [blog](./blog_posts/day_004.md) |
 | 5 | Review + Speed Drills | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_005.md) | [code](./00_prerequisites/day_005_review.py) | [blog](./blog_posts/day_005.md) |
@@ -140,33 +140,6 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 </details>
 
-| 1 | PyTorch, einops, einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | Tensor ops from scratch: reshape, einsum, broadcasting | *"einsum changed how I think about matrix math"* |
-
-| 2 | Ray Tracing + Batched Ops | [0.1 Ray Tracing](https://learn.arena.education/chapter0_fundamentals/01_ray_tracing/) | Render a mesh using batched ray-triangle intersection | *"Batching is the heart of GPU programming"* |
-
-| 3 | Ray Tracing continued | [0.1 Ray Tracing](https://learn.arena.education/chapter0_fundamentals/01_ray_tracing/) | Full render pipeline, profile + speed up 2× | *"What ray tracing taught me about vectorized code"* |
-
-| 4 | CNNs from Scratch | [0.2 CNNs & ResNets](https://learn.arena.education/chapter0_fundamentals/02_cnns/) | Implement `conv2d` using only `unfold` + matmul | *"Convolutions are just structured weight sharing"* |
-
-| 5 | ResNets + CIFAR-10 | [0.2 CNNs & ResNets](https://learn.arena.education/chapter0_fundamentals/02_cnns/) | Build ResNet-18, train to >90% on CIFAR-10 | *"Why skip connections solved the depth problem"* |
-
-| 6 | Optimizers: SGD → Adam | [0.3 Optimization](https://learn.arena.education/chapter0_fundamentals/03_optimization/) | Implement SGD + Adam from scratch, verify vs PyTorch | *"Adam explained without jargon"* |
-
-| 7 | W&B + Hyperparameter Sweeps | [0.3 Optimization](https://learn.arena.education/chapter0_fundamentals/03_optimization/) | Run a W&B sweep, find optimal LR for ResNet | *"Experiment tracking changed my relationship with training"* |
-
-| 8 | Autograd from Scratch | [0.4 Backpropagation](https://learn.arena.education/chapter0_fundamentals/04_backprop/) | Build `Value` class: `+`, `*`, `relu`, `log`, backward | *"How backprop actually works — no hand-waving"* |
-
-| 9 | Train MLP with Custom Autograd | [0.4 Backpropagation](https://learn.arena.education/chapter0_fundamentals/04_backprop/) | Train 3-layer MLP on MNIST using only your autograd engine | *"I built an autograd engine. Here's what broke first."* |
-
-| 10 | Gradient Checking | [0.4 Backpropagation](https://learn.arena.education/chapter0_fundamentals/04_backprop/) | Write gradient checker, verify all ops pass finite diff | *"Gradient checking: the unit test for neural networks"* |
-
-| 11 | VAEs — Theory + ELBO | [0.5 VAEs & GANs](https://learn.arena.education/chapter0_fundamentals/05_vaes_gans/) | Train VAE on MNIST, interpolate in latent space | *"The reparameterization trick: elegant solution to an impossible gradient"* |
-
-| 12 | GANs — DCGAN | [0.5 VAEs & GANs](https://learn.arena.education/chapter0_fundamentals/05_vaes_gans/) | Train DCGAN on MNIST, generate digits | *"GANs: two networks playing an adversarial game"* |
-
-| 13 | Transformers from Scratch pt.1 | [1.1 Transformers](https://learn.arena.education/chapter1_transformer_interp/01_transformers/) | Implement `MultiHeadAttention`, transformer block, LayerNorm | *"The residual stream: why transformers are really just a sum of votes"* |
-
-| 14 | Transformers from Scratch pt.2 | [1.1 Transformers](https://learn.arena.education/chapter1_transformer_interp/01_transformers/) | Build full GPT-2 Small, load HuggingFace weights, match logits | *"The moment my transformer started speaking"* |
 
 ---
 
