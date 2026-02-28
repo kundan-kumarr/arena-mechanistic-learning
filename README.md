@@ -1,6 +1,6 @@
 # ARENA Mechanistic Learning
 **100 Days of Mechanistic Learning — ARENA + Notes, Implementations, Experiments & Blogs**
-
+*Started: [DATE] · Target completion: [DATE + 100 days]*
 Based on: [ARENA – Alignment Research Engineer Accelerator](https://learn.arena.education/)
 
 [![Days Complete](https://img.shields.io/badge/Days%20Complete-0%2F100-red?style=flat-square)](./daily_notes/)
@@ -138,7 +138,7 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 ---
 
-### 🔬 MODULE 1 — Mechanistic Interpretability
+### MODULE 1 — Mechanistic Interpretability
 **ARENA Chapter 1 · Days 29–65**
 
 <details>
@@ -252,7 +252,7 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 ---
 
-### 🤖 MODULE 2 — Reinforcement Learning
+### MODULE 2 — Reinforcement Learning
 **ARENA Chapter 2 · Days 66–76**
 
 <details>
@@ -300,7 +300,7 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 ---
 
-### 📊 MODULE 3 — LLM Evaluations
+### MODULE 3 — LLM Evaluations
 **ARENA Chapter 3 · Days 77–86**
 
 <details>
@@ -347,7 +347,7 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 ---
 
-### 🎯 MODULE 4 — Alignment Science
+### MODULE 4 — Alignment Science
 **ARENA Chapter 4 · Days 87–100**
 
 <details>
@@ -490,4 +490,4 @@ Longer blog posts and weekly summaries get posted to:
 
 ---
 
-*Started: [DATE] · Target completion: [DATE + 100 days]*
+
