@@ -47,11 +47,11 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 | Module | Days | Topic | Status |
 |---|---|---|---|
-| 0 | 1–28 | Fundamentals (PyTorch → VAEs & GANs) | 🔜 Not started |
-| 1 | 29–65 | Mechanistic Interpretability | 🔜 Not started |
-| 2 | 66–76 | Reinforcement Learning + RLHF | 🔜 Not started |
-| 3 | 77–86 | LLM Evaluations | 🔜 Not started |
-| 4 | 87–100 | Alignment Science | 🔜 Not started |
+| 0 | 1–28 | Fundamentals (PyTorch → VAEs & GANs) | Started |
+| 1 | 29–65 | Mechanistic Interpretability | Not started |
+| 2 | 66–76 | Reinforcement Learning + RLHF | Not started |
+| 3 | 77–86 | LLM Evaluations | Not started |
+| 4 | 87–100 | Alignment Science | Not started |
 
 ---
 
