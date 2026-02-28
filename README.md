@@ -106,7 +106,7 @@ This repository is not an official ARENA resource.
 arena-mechanistic-learning/
 
 01_backprop/
-  - Backprop derivations + NumPy implementations + gradient checks
+  Backprop derivations + NumPy implementations + gradient checks
 
 02_transformers/
   Attention + transformer components + experiments
@@ -115,16 +115,16 @@ arena-mechanistic-learning/
   Policy gradients, PPO, actor-critic + diagnostics
 
 04_interpretability/
-  Probing, activation analysis, mechanistic studies
+  Probing, activation analysis, and mechanistic studies
 
 05_alignment_notes/
   Alignment-related notes and reflections (non-claims, learning-focused)
 
 blog_posts/
-  Quarto/Markdown posts derived from my notes and implementations
+  Blogs posts derived from my notes and implementations
 
 daily_logs/
-  Short daily entries for the 100-day challenge
+  Short daily Notes for the 100-day challenge
 
 
 
