@@ -489,8 +489,8 @@ All original course materials belong to ARENA. This repository contains only my 
 ## Where I Write
 
 Longer blog posts and weekly summaries get posted to:
-- [LessWrong](https://www.lesswrong.com)
-- [Alignment Forum](https://www.alignmentforum.org)
+- [Personal](https://kundan-kumarr.github.io/blog/)
+- [SubStack](https://neuravp.substack.com/)
 
 ---
 
