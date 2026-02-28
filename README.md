@@ -106,7 +106,7 @@ This repository is not an official ARENA resource.
 arena-mechanistic-learning/
 
 01_backprop/
-  Backprop derivations + NumPy implementations + gradient checks
+  - Backprop derivations + NumPy implementations + gradient checks
 
 02_transformers/
   Attention + transformer components + experiments
