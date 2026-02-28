@@ -117,13 +117,13 @@ arena-mechanistic-learning/
 04_interpretability/
   Probing, activation analysis, and mechanistic studies
 
-05_alignment_notes/
-  Alignment-related notes and reflections (non-claims, learning-focused)
+05_alignment_science/
+  Emergent Alignment, LLM Investigator  
 
 blog_posts/
-  Blogs posts derived from my notes and implementations
+  Blogs posts derived from my notes and implementations Alignment Science
 
-daily_logs/
+daily_notes/
   Short daily Notes for the 100-day challenge
 
 
