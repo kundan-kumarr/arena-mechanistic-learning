@@ -94,7 +94,7 @@ This repository contains only my personal:
 - implementations
 - derivations
 - explanations
-- experiments / sanity checks
+- experiments/sanity checks
 - blog posts and reflections
 
 This repository is not an official ARENA resource.
@@ -128,18 +128,5 @@ daily_logs/
 
 ---
 
-## Technologies Used
 
--   Python
-    
--   NumPy
-    
--   PyTorch
-    
--   Matplotlib
-    
-
-Focus: minimal implementations and mechanistic understanding.
-
----
 
