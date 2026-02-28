@@ -126,7 +126,5 @@ blog_posts/
 daily_logs/
   Short daily entries for the 100-day challenge
 
----
-
 
 
