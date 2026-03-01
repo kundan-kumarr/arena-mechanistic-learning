@@ -495,32 +495,9 @@ Longer blog posts and weekly summaries get posted to:
 ---
 
 
-## Key Papers (Read These in Order)
+## Key Papers
 
   
 
-| Priority | Paper | When |
-
-|---|---|---|
-
-| 1 | [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html) | Day 19 |
-
-| 2 | [Interpretability in the Wild (IOI)](https://arxiv.org/abs/2211.00593) | Day 34 |
-
-| 3 | [Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html) | Day 50 |
-
-| 4 | [Towards Monosemanticity](https://transformer-circuits.pub/2023/monosemantic-features/index.html) | Day 26 |
-
-| 5 | [InstructGPT / RLHF](https://arxiv.org/abs/2203.02155) | Day 65 |
-
-| 6 | [Emergent Misalignment](https://arxiv.org/abs/2502.17424) | Day 83 |
-
-| 7 | [Sleeper Agents](https://arxiv.org/abs/2401.05566) | Day 84 |
-
-| 8 | [Risks from Learned Optimization](https://arxiv.org/abs/1906.01820) | Day 95 |
-
-| 9 | [Grokking](https://arxiv.org/abs/2201.02177) | Day 45 |
-
-| 10 | [Emergent World Representations](https://arxiv.org/abs/2210.13382) | Day 48 |
 
   
