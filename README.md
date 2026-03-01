@@ -69,8 +69,8 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 | Day | Topic | ARENA | Notes | Implementation | Blog |
 |---|---|---|---|---|---|
-| 1 | PyTorch, einops, einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./00_prerequisites/day_001_tensors.py) | [blog](./blog_posts/day_001.md) |
-| 2 | Tensor Manipulation + Linear Algebra in Code | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_002.md) | [code](./00_prerequisites/day_002_linalg.py) | [blog](./blog_posts/day_002.md) |
+| 1 | PyTorch, einops, einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./01_backprop/day_001_tensors.py) | [blog](./blog_posts/day_001.md) |
+| 2 | Tensor Manipulation + Linear Algebra in Code | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_002.md) | [code](./01_backprop/day_002_linalg.py) | [blog](./blog_posts/day_002.md) |
 
 </details>
 
