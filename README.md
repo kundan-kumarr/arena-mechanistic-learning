@@ -422,23 +422,23 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 ```
 arena-mechanistic-learning/
+│── 01_backprops/ 
+│   ├── 00_preequisites/          # Days 1–2   · PyTorch, einops, linear algebra
+│   ├── 01_ray_tracing/            # Days 3–5   · Batched ops, 3D rendering
+│   ├── 02_cnns_resnets/           # Days 6–8   · Convolutions, ResNet, CIFAR-10
+│   ├── 03_optimization/           # Days 9–10  · SGD, Adam, W&B, sweeps
+│   ├── 04_backprop/               # Days 11–12 · Autograd engine from scratch
+│   ├── 05_vaes_gans/              # Days 13–14 · VAEs, GANs, generative models
 │
-├── 00_prerequisites/          # Days 1–5   · PyTorch, einops, linear algebra
-├── 01_ray_tracing/            # Days 6–10  · Batched ops, 3D rendering
-├── 02_cnns_resnets/           # Days 11–14 · Convolutions, ResNet, CIFAR-10
-├── 03_optimization/           # Days 15–19 · SGD, Adam, W&B, sweeps
-├── 04_backprop/               # Days 20–24 · Autograd engine from scratch
-├── 05_vaes_gans/              # Days 25–28 · VAEs, GANs, generative models
+├── 06_rl/                     # Days 15–29 · Bandits, Q-learning, DQN, PPO, RLHF
 │
-├── 06_transformers/           # Days 29–33 · GPT-2 from scratch, sampling
-├── 07_mech_interp/            # Days 34–65 · TransformerLens, probes, SAEs,
+├── 07_transformers/           # Days 30–34 · GPT-2 from scratch, sampling
+├── 08_mech_interp/            # Days 35–70 · TransformerLens, probes, SAEs,
 │                              #              circuits, IOI, grokking, OthelloGPT
 │
-├── 08_rl/                     # Days 66–76 · Bandits, Q-learning, DQN, PPO, RLHF
+├── 09_evals/                  # Days 71–82 · Threat models, Inspect, LLM agents
 │
-├── 09_evals/                  # Days 77–86 · Threat models, Inspect, LLM agents
-│
-├── 10_alignment/              # Days 87–100 · Emergent misalignment, reasoning
+├── 10_alignment/              # Days 83–100 · Emergent misalignment, reasoning
 │                              #               models, persona vectors, inv. agents
 │
 ├── blog_posts/                # Daily blog posts (markdown)
@@ -495,7 +495,7 @@ Longer blog posts and weekly summaries get posted to:
 ---
 
 
-## Key Papers
+## Key Papers to read 
 
   
 
