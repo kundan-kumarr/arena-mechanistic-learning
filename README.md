@@ -37,7 +37,7 @@ Every day I:
 3. Run at least one check or experiment
 4. Write a blog post that compresses the idea into a clear narrative
 
-**This is not a claim of novel research. It is a public record of learning, implementation, and reflection.**
+**This is my exploration of AREANA course, learning, implementation, and reflection.**
 
 My daily workflow:
 
