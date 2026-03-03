@@ -497,6 +497,11 @@ Longer blog posts and weekly summaries get posted to:
 
 ## Key Papers to read 
 
+1. [Toy Models of Superposition](https://arxiv.org/abs/2209.10652)
+2. [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
+3. [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2304.14997)
+4. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
+5. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
   
 
 
