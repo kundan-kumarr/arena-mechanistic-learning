@@ -23,7 +23,7 @@ It contains:
 - **Mathematical derivations** — where intuition meets formalism
 - **Implementations from scratch** — NumPy / minimal PyTorch, readable over clever
 - **Experiments & sanity checks** — gradient checks, ablations, visualizations
-- **Blog posts** — one per day, compressing each concept into a clear narrative
+- **Blog posts** — every other day, compressing each concept into a clear narrative
 
 The goal is **mechanistic understanding** — not just running notebooks, but knowing *why* every piece works.
 
