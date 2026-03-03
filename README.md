@@ -502,7 +502,7 @@ Longer blog posts and weekly summaries get posted to:
 3. [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2304.14997)
 4. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593)
 5. [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
-  
+6. [Progress measures for grokking via mechanistic interpretability](https://arxiv.org/abs/2301.05217)
 
 
   
