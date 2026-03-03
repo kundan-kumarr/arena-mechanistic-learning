@@ -441,7 +441,7 @@ arena-mechanistic-learning/
 ├── 10_alignment/              # Days 83–100 · Emergent misalignment, reasoning
 │                              #               models, persona vectors, inv. agents
 │
-├── blog_posts/                # Daily blog posts (markdown)
+├── blog_posts/                # Every Other day blog posts (markdown)
 │   ├── day_001.md
 │   └── ...
 │
