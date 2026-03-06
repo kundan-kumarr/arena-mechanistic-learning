@@ -3,7 +3,7 @@
 
 ##100DaysofMechanisticLearning
 
-*Started: March 5, 2026 · Target completion: June 14, 2026*
+*Started: March 6, 2026 · Target completion: June 14, 2026*
 
 Based on: [ARENA – Alignment Research Engineer Accelerator](https://learn.arena.education/)
 
