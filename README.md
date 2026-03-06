@@ -11,7 +11,7 @@ Based on: [ARENA – Alignment Research Engineer Accelerator](https://learn.aren
 [![Module](https://img.shields.io/badge/Current%20Module-0%3A%20Fundamentals-blue?style=flat-square)](./01_fundamentals/)
 [![Blog Posts](https://img.shields.io/badge/Blog%20Posts-0%2F50-orange?style=flat-square)](./blog_posts/)
 
----
+----
 
 ## Overview
 
