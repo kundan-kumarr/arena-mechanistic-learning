@@ -3,7 +3,7 @@
 
 ##100DaysofMechanisticLearning
 
-*Started: March 6, 2026 · Target completion: June 14, 2026*
+*Started: March 9, 2026 · Target completion: June 20, 2026*
 
 Based on: [ARENA – Alignment Research Engineer Accelerator](https://learn.arena.education/)
 
@@ -37,7 +37,7 @@ Every day I:
 3. Run at least one check or experiment
 4. Write a blog post that compresses the idea into a clear narrative
 
-**This is my exploration of AREANA course, learning, implementation, and reflection.**
+**This is my exploration of the AREANA course, learning, implementation, and reflection.**
 
 My daily workflow:
 
