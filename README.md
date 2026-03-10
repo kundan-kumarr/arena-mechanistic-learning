@@ -7,7 +7,7 @@
 
 Based on: [ARENA – Alignment Research Engineer Accelerator](https://learn.arena.education/)
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-0%2F100-red?style=flat-square)](./daily_notes/)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-1%2F100-red?style=flat-square)](./daily_notes/)
 [![Module](https://img.shields.io/badge/Current%20Module-0%3A%20Fundamentals-blue?style=flat-square)](./01_fundamentals/)
 [![Blog Posts](https://img.shields.io/badge/Blog%20Posts-0%2F50-orange?style=flat-square)](./blog_posts/)
 
@@ -69,8 +69,8 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 | Day | Topic | ARENA | Notes | Implementation | Blog |
 |---|---|---|---|---|---|
-| 1 | PyTorch, einops, einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./01_backprop/day_001_tensors.py) | [blog](./blog_posts/day_001.md) |
-| 2 | Tensor Manipulation + Linear Algebra in Code | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_002.md) | [code](./01_backprop/day_002_linalg.py) | [blog](./blog_posts/day_002.md) |
+| 1 | PyTorch Tensor, einops, einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./day_001_tensors_einops_einsum.ipynb) | -|
+| 2 | Neural Network + Linear Algebra | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_002.md) | [code]() | [Blog 1](./blog_posts/day_002.md) |
 
 </details>
 
