@@ -69,7 +69,7 @@ Read → Derive → Implement → Verify → Experiment → Write
 
 | Day | Topic | ARENA | Notes | Implementation | Blog |
 |---|---|---|---|---|---|
-| 1 | PyTorch Tensor, einops, einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./day_001_tensors_einops_einsum.ipynb) | -|
+| 1 | PyTorch Tensor, einops, einsum | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_001.md) | [code](./01_backprop/day_001_tensors_einops_einsum.ipynb) | -|
 | 2 | Neural Network + Linear Algebra | [0.0 Prerequisites](https://learn.arena.education/chapter0_fundamentals/00_prereqs/) | [notes](./daily_notes/day_002.md) | [code]() | [Blog 1](./blog_posts/day_002.md) |
 
 </details>
