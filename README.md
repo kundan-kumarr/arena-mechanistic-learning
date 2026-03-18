@@ -7,7 +7,7 @@
 
 Based on: [ARENA – Alignment Research Engineer Accelerator](https://learn.arena.education/)
 
-[![Days Complete](https://img.shields.io/badge/Days%20Complete-1%2F100-red?style=flat-square)](./daily_notes/)
+[![Days Complete](https://img.shields.io/badge/Days%20Complete-10%2F100-red?style=flat-square)](./daily_notes/)
 [![Module](https://img.shields.io/badge/Current%20Module-0%3A%20Fundamentals-blue?style=flat-square)](./01_fundamentals/)
 [![Blog Posts](https://img.shields.io/badge/Blog%20Posts-0%2F50-orange?style=flat-square)](./blog_posts/)
 
